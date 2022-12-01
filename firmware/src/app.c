@@ -137,6 +137,8 @@ void APP_Initialize ( void )
 
 void APP_Tasks ( void )
 {
+    //demoGit
+    
     //TABLEAU LEDS
     static BSP_LED Tab_LEDS [8] =
     {
